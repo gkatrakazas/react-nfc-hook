@@ -1,6 +1,6 @@
 {
   "name": "react-nfc-hook",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React hook for integrating NFC functionality into your React applications.",
   "main": "dist/index.js",
   "module": "src/index.js",
@@ -27,6 +27,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/gkatrakazas/react-nfc-hook.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "author": "gkatrakazas",
   "license": "MIT"
