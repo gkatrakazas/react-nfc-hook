@@ -1,6 +1,6 @@
 {
   "name": "react-nfc-hook",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A React hook for integrating NFC functionality into your React applications.",
   "main": "dist/index.js",
   "module": "src/index.js",
